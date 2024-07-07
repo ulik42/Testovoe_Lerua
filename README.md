@@ -100,11 +100,7 @@ if __name__ == '__main__':
    ```bash
    git clone https://github.com/ulik42/testovoe_Lerua.git
    ```
-2. Установите зависимости:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Запустите скрипт:
+2. Запустите скрипт:
    ```bash
    python testovoe.py
    ```
